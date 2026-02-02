@@ -1,11 +1,1 @@
-{
-  "updated": "2026-02-03T00:00:00Z",
-  "fallback": "https://hd3.vse-chasti-smotret-lordfilm.top/",
-  "ok_hosts": [
-    "hd3.vse-chasti-smotret-lordfilm.top"
-  ],
-  "redirect_map": {
-    "hd2.vse-chasti-smotret-lordfilm.top": "https://hd3.vse-chasti-smotret-lordfilm.top/",
-    "hd1.vse-chasti-smotret-lordfilm.top": "https://hd3.vse-chasti-smotret-lordfilm.top/"
-  }
-}
+
