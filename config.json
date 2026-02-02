@@ -3,12 +3,9 @@
   "fallback": "https://hd3.vse-chasti-smotret-lordfilm.top/",
   "ok_hosts": [
     "hd3.vse-chasti-smotret-lordfilm.top",
-    "smotret.vse-chasti-smotret-lordfilm.top",
-    "vse-chasti-smotret-lordfilm.top"
   ],
   "redirect_map": {
     "hd2.vse-chasti-smotret-lordfilm.top": "https://hd3.vse-chasti-smotret-lordfilm.top/",
     "hd1.vse-chasti-smotret-lordfilm.top": "https://hd3.vse-chasti-smotret-lordfilm.top/",
-    "go.iordfilm.ru": "https://hd3.vse-chasti-smotret-lordfilm.top/"
   }
 }
